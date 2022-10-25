@@ -1,0 +1,21 @@
+body{
+    background-color: #d95550;
+}
+.bg-boton {
+    background-color: #e27c78;
+}
+.timer-start{
+    border-bottom: 5px solid #ccc;
+    font-size: 3em;
+    color: #d95550;
+}
+.timer {
+    font-size: 7em;
+    font-weight: 600;
+}
+.borde-propia{
+color: #5d28a8;
+border-style: dashed solid;
+border: 5px datted #fff;
+}
+Footer
